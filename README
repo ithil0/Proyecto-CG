@@ -1,0 +1,9 @@
+Proyecto Computación Gráfica
+
+Al correr el programa se verán 3 cuadrados de colores. Cada uno de estos cuadrados puede ser modificado tomando 
+sus vértices y arrastrándolos con el click izquierdo del mouse. En este trabajo se tenía que formar un cubo.
+
+Una vez hecho el cubo, se pueden controlar las texturas mostradas en las caras inferiores presionando las teclas
+"a" o "d". Estas teclas se presionarán en turnos para emular un cachipún, mientras en la cara superior se indicará 
+al ganador. Para resetear la partida se debe presionar la tecla "r". Cada textura (piedra,papel,tijera) incluyen
+sonidos.
